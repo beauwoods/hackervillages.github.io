@@ -1,0 +1,108 @@
+---
+layout: default
+---
+<style>
+/*---------- villages css -------*/
+.villages_wrapper{
+	float:left;
+	width:100%;
+	background-color:#f4f4f4;
+}
+.villages_wrapper.index_villages{
+	background-color:#ffffff;
+}
+.villages_info h3{
+	float:left;
+	width:100%;
+	margin:0px;
+	margin-bottom:15px;
+	text-transform:capitalize;
+}
+.villages_info p{
+	float:left;
+	width:100%;
+}
+.villages_box{
+    float: left;
+    width: 100%;
+    background-color: #ffffff;
+    position: relative;
+    margin-bottom: 30px;
+    text-align: center;
+		padding:20px;
+	border-radius: 3px;
+	border:10px solid #ffffff;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.index_villages .villages_box{
+	background-color:#ffffff;
+}
+.villages_box a{
+	float:left;
+	width:100%;
+}
+.villages_box:hover{
+    background-color: #ffffff;
+    -webkit-box-shadow: 0px 10px 15px -10px #777777;
+    -moz-box-shadow: 0px 10px 15px -10px #777777;
+    -ms-box-shadow: 0px 10px 15px -10px #777777;
+    -o-box-shadow: 0px 10px 15px -10px #777777;
+    box-shadow: 0px 10px 15px -10px #777777;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.index_villages .villages_box:hover{
+	background-color:#ffffff;
+}
+.index_villages .villages_box{
+	border-color:#ffffff;
+}
+.villages_box h4{
+	float:left;
+	width:100%;
+	text-transform:capitalize;
+	margin:20px 0px 10px 0px;
+	font-size:20px;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    -ms-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.villages_box p{
+	float:left;
+	width:100%;
+	margin-bottom:0px;
+}
+/*---------- villages css -------*/
+</style>
+
+<br /><br /><br /><br />
+
+				<!--Villages Start-->
+				<div class="villages_wrapper">
+					<div class="container">
+						<div class="row">
+
+							{% for village in site.data.villages %}
+							<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+								<div class="villages_box">
+									<img src="/img/villages/{{village.img}}" width="128" height="128" class="embed-responsive-item">
+									<h4><a href="{{village.url}}"><i class="fas fa-globe"></i> {{village.name}}</a></h4>
+									<p><a href="https://twitter.com/{{village.twitter}}"><i class="fab fa-twitter"></i> {{village.twitter}}</a></p>
+									</a>
+								</div>
+							</div>
+							{% endfor %}
+
+						</div>
+					</div>
+				</div>
+				<!--Villages End-->
