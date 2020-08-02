@@ -26,6 +26,13 @@
   description: Security researchers work together with the automotive industry to improve the security - and safety - of modern vehicles.
   quote:       “Leveraging the vast amount of experience the security research community brings to the Village may increase the safety and security of vehicles on the road today and for generations to come.”
 
+- name:        Career Hacking Village
+  twitter:     HackingCareer
+  link:
+  img:         CareerHacking.jpg
+  description: Security researchers, recruiters, and managers, hackers all, working to help the community make their careers better.
+  quote:       “Jobs can be a pain or cool. It all depends on how you go about finding your next gig & what you do each day. Best practices, tips & coaches to help you find you."
+
 - name:        Crypto and Privacy Village
   twitter:     CryptoVillage
   link:
