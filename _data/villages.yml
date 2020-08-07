@@ -90,10 +90,12 @@
   description: Equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.
   quote: “The ICS Village equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.”
 
-- name: IOT Village
-  img: iotvillage.jpg
+- name: IoT Village
+  img: iot_village.png
   twitter: IoTvillage
   link: https://www.iotvillage.org/
+  twitch: iotvillage
+  youtube: iotvillage
 
 - name: Lock Bypass Village
   img: bypassvillage.jpg
