@@ -15,6 +15,7 @@
   twitch: aivillage
 
 - name: AppSec Village
+  img: appsecvillage.jpg
   twitter: AppSec_Village
   link: https://www.appsecvillage.com/
   
@@ -28,6 +29,7 @@
   twitch: biohackingvillage
 
 - name: Blue Team Village
+  img: blueteamvillage.jpg
   twitter: BlueTeamVillage
   link: https://blueteamvillage.org/
 
@@ -49,6 +51,7 @@
   youtube: watch?v=28qS5Sx0oZU
 
 - name: Cloud Village
+  img: cloudvillage.png
   link: https://cloud-village.org/
   twitter: cloudvillage_dc
   
@@ -78,6 +81,7 @@
 
 - name: Ham Radio Village
   twitter: HamRadioVillage
+  img: hamradiovillage.png
   
 - name: ICS Village
   twitter: ICS_Village
@@ -91,6 +95,7 @@
   link: https://www.iotvillage.org/
 
 - name: Lock Bypass Village
+  img: bypassvillage.jpg
   twitter: bypassvillage
   link: http://www.bypassvillage.org/
   
@@ -110,9 +115,10 @@
   description: A safe space for kids (and their parents) to learn about white hat hacking and staying safe online, with hands on activities available to kids to take the honor code.
   quote: "r00tz Asylum is open to anyone who is curious and open to learning new things, like encryption, information security, hardware engineering and more."
 
-- name: Rogies Village
+- name: Rogues Village
   twitter: RoguesVillage
   link: https://foursuits.co/roguesvillage
+  img: roguesvillage.jpg
   
 - name: Voting Village
   twitter: VotingVillageDC
@@ -124,6 +130,7 @@
   twitch: votingvillagedc
 
 - name: Wireless Village
+  img: wirelessvillage.png
   twitter: WiFi_Village
   link: https://rfhackers.com/
     
