@@ -32,6 +32,7 @@
   img: blueteamvillage.jpg
   twitter: BlueTeamVillage
   link: https://blueteamvillage.org/
+  twitch: blueteamvillage
 
 - name: Car Hacking Village
   twitter: carhackvillage
@@ -78,10 +79,12 @@
   img: hack_the_sea.jpg
   description: Discussions and hands on learning about maritime security and the trillions of dollars of global commerce it supports.
   quote: “Hack The Sea, [is] a three day mini-conference organized to challenge the infosec community to apply their skills, red and blue, to protect our maritime critical infrastructure and human lives at sea.”
+  twitch: hackthesea
 
 - name: Ham Radio Village
   twitter: HamRadioVillage
   img: hamradiovillage.png
+  twitch: hamradiovillage
   
 - name: ICS Village
   twitter: ICS_Village
@@ -89,6 +92,7 @@
   img: ICS_Village.jpg
   description: Equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.
   quote: “The ICS Village equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.”
+  youtube: channel/UCI_GT2-OMrsqqglv0JijHhw
 
 - name: IoT Village
   img: iot_village.png
@@ -101,6 +105,7 @@
   img: bypassvillage.jpg
   twitter: bypassvillage
   link: http://www.bypassvillage.org/
+  twitch: bypassvillage
   
 - name: Lockpick Village
   twitter: toool
@@ -122,6 +127,7 @@
   twitter: RoguesVillage
   link: https://foursuits.co/roguesvillage
   img: roguesvillage.jpg
+  twitch: roguesvillage
   
 - name: Voting Village
   twitter: VotingVillageDC
@@ -143,3 +149,5 @@
   img: redteam.png
   description: The DEF CON Red Team Village is a community-driven effort for and by the offensive security community members (red teams and ethical hackers). The goal of the village is to expand the spectrum of red team and offensive security training, as well as to create opportunities for individuals to both, present and learn. 
   quote: “The DEF CON Red Team Village community creates different activities including many technical presentations, hands-on workshops, trainings, demos, capture the flag (CTF), games, and other activities from participants."
+  twitch: redteamvillage
+  youtube: channel/UC8nq3PX9coMiqgKH6fw-VCQ/
