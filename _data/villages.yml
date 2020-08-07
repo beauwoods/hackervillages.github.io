@@ -112,4 +112,10 @@
 - name: Wireless Village
   twitter: WiFi_Village
   link: https://rfhackers.com/
-  
+    
+- name: Red Team Village
+  twitter: VillageRedTeam
+  link: https://redteamvillage.io/
+  img: redteam.png
+  description: The DEF CON Red Team Village is a community-driven effort for and by the offensive security community members (red teams and ethical hackers). The goal of the village is to expand the spectrum of red team and offensive security training, as well as to create opportunities for individuals to both, present and learn. 
+  quote: “The DEF CON Red Team Village community creates different activities including many technical presentations, hands-on workshops, trainings, demos, capture the flag (CTF), games, and other activities from participants."
