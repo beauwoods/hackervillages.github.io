@@ -97,6 +97,12 @@ layout: default
 									<img src="/img/villages/{{village.img}}" width="128" height="128" class="embed-responsive-item">
 									<h4><a href="{{village.link}}"><i class="fas fa-globe"></i> {{village.name}}</a></h4>
 									<p><a href="https://twitter.com/{{village.twitter}}"><i class="fab fa-twitter"></i> {{village.twitter}}</a></p>
+									{% if village.youtube %}
+									<p><a href="https://youtube.com/{{village.youtube}}"><i class="fab fa-youtube"></i></a></p>
+									{% endif %}
+									{% if village.twitch %}
+									<p><a href="https://twitch.tv/{{village.twitch}}"><i class="fab fa-twitch"></i></a></p>
+									{% endif %}
 									</a>
 								</div>
 							</div>
