@@ -12,12 +12,20 @@
   description: From fundamental research to public policy positions, the AI Village seeks to build connections between the AI and security research communities.
   quote: “We aspire to quell mounting discomfort and democratize the knowledge needed to capitalize on AI’s prodigious potential.”
 
+- name: AppSec Village
+  twitter: AppSec_Village
+  link: https://www.appsecvillage.com/
+  
 - name: Biohacking Village
   twitter: dc_bhv
   link: https://www.villageb.io/
   img: dc_bhv.jpg
   description: Featuring talks, as well as hands on labs for biohacking and medical device security research; creating a safe space for individuals across the healthcare ecosystem; leveraging the best technology has to offer, in the service of public health and wellness.
   quote: "The non-profit Biohacking Village empowers the cybersecurity research, biomedical technology, DIY Bio, and Citizen Science communities for healthier tech and healthier people."
+
+- name: Blue Team Village
+  twitter: BlueTeamVillage
+  link: https://blueteamvillage.org/
 
 - name: Car Hacking Village
   twitter: carhackvillage
@@ -33,6 +41,10 @@
   description: Security researchers, recruiters, and managers, hackers all, working to help the community make their careers better.
   quote: “Jobs can be a pain or cool. It all depends on how you go about finding your next gig & what you do each day. Best practices, tips & coaches to help you find you."
 
+- name: Cloud Village
+  link: https://cloud-village.org/
+  twitter: cloudvillage_dc
+  
 - name: Crypto and Privacy Village
   twitter: CryptoVillage
   link: https://cryptovillage.org/
@@ -46,14 +58,7 @@
   img: EthicsVillage.jpg
   description: Studies the unique ethics posed by the emerging field of information security and hacking, drawing on medicine, law, and philosophy.
   quote: “The DEFCON Ethics Village, is an ethics conference focused on fostering a discussion about ethics in the security domain.”
-
-- name: ICS Village
-  twitter: ICS_Village
-  link: https://www.icsvillage.com/
-  img: ICS_Village.jpg
-  description: Equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.
-  quote: “The ICS Village equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.”
-
+  
 - name: Hack the Sea
   twitter: hack_the_sea
   link: https://hackthesea.org/
@@ -61,6 +66,24 @@
   description: Discussions and hands on learning about maritime security and the trillions of dollars of global commerce it supports.
   quote: “Hack The Sea, [is] a three day mini-conference organized to challenge the infosec community to apply their skills, red and blue, to protect our maritime critical infrastructure and human lives at sea.”
 
+- name: Ham Radio Village
+  twitter: HamRadioVillage
+  
+- name: ICS Village
+  twitter: ICS_Village
+  link: https://www.icsvillage.com/
+  img: ICS_Village.jpg
+  description: Equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.
+  quote: “The ICS Village equips industry and policymakers to better defend industrial equipment through experiential awareness, education, and training.”
+
+- name: IOT Village
+  twitter: IoTvillage
+  link: https://www.iotvillage.org/
+
+- name: Lock Bypass Village
+  twitter: bypassvillage
+  link: http://www.bypassvillage.org/
+  
 - name: Lockpick Village
   twitter: toool
   link: https://toool.us/education.html
@@ -75,9 +98,18 @@
   description: A safe space for kids (and their parents) to learn about white hat hacking and staying safe online, with hands on activities available to kids to take the honor code.
   quote: "r00tz Asylum is open to anyone who is curious and open to learning new things, like encryption, information security, hardware engineering and more."
 
+- name: Rogies Village
+  twitter: RoguesVillage
+  link: https://foursuits.co/roguesvillage
+  
 - name: Voting Village
   twitter: VotingVillageDC
   link:
   img: VotingVillageDC.jpg
   description: Exploration of election security from technical and public policy perspectives.
   quote: “The Voting Village ... will highlight the various aspects of election cybersecurity, including the technical components that make up our election infrastructure ranging from hardware, to software to databases."
+
+- name: Wireless Village
+  twitter: WiFi_Village
+  link: https://rfhackers.com/
+  
