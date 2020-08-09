@@ -5,6 +5,10 @@ gem "jekyll", ">= 3.8.4"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
 
+# kramdown is a dependency for some packages, but we want to insure that a non-vulnerable version is installed.
+# see https://github.com/advisories/GHSA-mqm2-cgpr-p4m6
+gem "kramdown", ">= 2.3.0"
+
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
